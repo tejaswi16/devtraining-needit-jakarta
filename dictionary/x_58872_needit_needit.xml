@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="needit" max_length="40" name="x_58872_needit_needit" sizeclass="1" type="collection"/>
+</database>
