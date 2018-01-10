@@ -32,5 +32,6 @@
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
+        <x_58872_needit_visibile>false</x_58872_needit_visibile>
     </sys_app>
 </record_update>
